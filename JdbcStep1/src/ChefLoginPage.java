@@ -220,7 +220,7 @@ close();
             }
             else
             {
-               JOptionPane.showMessageDialog(null,"Login Successfull");
+               JOptionPane.showMessageDialog(null,"Login Successful");
                 close();
                 Welcome w=new Welcome();
                 w.setVisible(true);
