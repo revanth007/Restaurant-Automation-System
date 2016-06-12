@@ -227,7 +227,7 @@ public void close(){
             }
             else
             {
-                //JOptionPane.showMessageDialog(null,"welcome adminstrator");
+                //JOptionPane.showMessageDialog(null,"welcome administrator");
                 close();
                 WelcomeAdmin w=new WelcomeAdmin();
                 w.setVisible(true);
